@@ -29,7 +29,7 @@ My current skillset consists mainly of:
 
 My currently most active Projects are:
 
-- [Erooster](https://github.com/erooster-email/erooster) - An Emailserver written in Rust from scratch meant to eventually replace my personal Mailu server.
+- [Erooster](https://github.com/erooster-mail/erooster) - An Emailserver written in Rust from scratch meant to eventually replace my personal Mailu server.
 
 ## Past major Projects
 
