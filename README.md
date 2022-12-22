@@ -44,4 +44,5 @@ Projects I recently started but which are still very small and pre-alpha:
 
 - [Pixelrust](https://gitlab.com/MTRNord/pixelrust) - A Pixelfed server written in Rust.
 
-[![MTRNord's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtrnord)](https://github.com/anuraghazra/github-readme-stats)
+[![MTRNord's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtrnord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtrnord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
