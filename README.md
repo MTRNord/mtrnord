@@ -14,13 +14,15 @@ My current skillset consists mainly of:
 
 - Rust
 - Typescript
+- Basic C++20 knowledge
 
 ### Tools
 
 - Git
 - Kubernetes
-- Github
+- Github/Gitea/Gitlab
 - Linux
+- Nix
 
 ## Blog
 
@@ -30,7 +32,8 @@ I have a small blog which you can find at https://notes.midnightthoughts.space/
 
 My currently most active Projects are:
 
-- [Cetirizine](https://github.com/MTRNord/cetirizine) - A personal matrix Client
+- [Erooster](https://github.com/erooster-mail/erooster) - An Emailserver written in Rust from scratch meant to eventually replace my personal Mailu server.
+- [msc-viewer](https://github.com/MTRNord/msc-viewer) - A datatracker alike viewer for Matrix Spec Change Requests.
 
 ## Past major Projects
 
@@ -38,13 +41,13 @@ These are projects I previously worked on:
 
 - [Matrix Art](https://github.com/MTRNord/matrix-art) - A Proof of Concept clone of DeviantArt heavily build on Matrix technology
 - [Matrix Moderation Widget](https://github.com/MTRNord/matrix-moderation-widget) - A Matrix Widget helping to simplify the [Mjolnir](https://github.com/matrix-org/mjolnir) workflow
-- [Erooster](https://github.com/erooster-mail/erooster) - An Emailserver written in Rust from scratch meant to eventually replace my personal Mailu server.
+- [Cetirizine](https://github.com/MTRNord/cetirizine) - A personal matrix Client
 
 ## Upcoming Projects
 
 Projects I recently started but which are still very small and pre-alpha:
 
-- [Pixelrust](https://gitlab.com/MTRNord/pixelrust) - A Pixelfed server written in Rust.
+- Currently none
 
 [![MTRNord's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtrnord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtrnord&layout=compact&hide=css,html,shell,php,makefile,c,jupyter%20notebook,lua,vala,python,java,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
