@@ -2,7 +2,7 @@
 
 ## Who am I
 
-I am a 24 year old german student passionate about Matrix and Rust.
+I am a 25 year old german student passionate about Matrix and Rust.
 
 I am working at [Nordeck](https://nordeck.net/), worked 4 years at Famedly and did plenty of contributions to both the Matrix.org Project as well as the Element-web Project over the last years.
 
