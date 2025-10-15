@@ -14,7 +14,7 @@ My current skillset consists mainly of:
 
 - Rust
 - Typescript
-- Basic C++20 knowledge
+- Basic C++23 knowledge
 
 ### Tools
 
@@ -22,17 +22,18 @@ My current skillset consists mainly of:
 - Kubernetes
 - Github/Gitea/Gitlab
 - Linux
-- Nix
+- CGit
+- Mailman
 
 ## Blog
 
-I have a small blog which you can find at https://notes.midnightthoughts.space/
+I have a small blog which you can find at https://mtrnord.blog/
 
 ## Projects
 
 My currently most active Projects are:
 
-- [Erooster](https://github.com/erooster-mail/erooster) - An Emailserver written in Rust from scratch meant to eventually replace my personal Mailu server.
+- [Connecitivty Tester for Matrix](https://connectivity-tester.mtrnord.blog/) - A connectivity tester for matrix federation and client side APIs.
 
 ## Past major Projects
 
@@ -41,6 +42,7 @@ These are projects I previously worked on:
 - [Matrix Art](https://github.com/MTRNord/matrix-art) - A Proof of Concept clone of DeviantArt heavily build on Matrix technology
 - [Matrix Moderation Widget](https://github.com/MTRNord/matrix-moderation-widget) - A Matrix Widget helping to simplify the [Mjolnir](https://github.com/matrix-org/mjolnir) workflow
 - [Cetirizine](https://github.com/MTRNord/cetirizine) - A personal matrix Client
+- [Erooster](https://github.com/erooster-mail/erooster) - An Emailserver written in Rust from scratch meant to eventually replace my personal Mailu server.
 
 ## Upcoming Projects
 
